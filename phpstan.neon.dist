@@ -1,0 +1,8 @@
+includes:
+  - vendor/hosmelq/php-coding-standard/config/phpstan-php.neon
+
+parameters:
+  paths:
+    - src
+  type_coverage:
+    declare: 100
