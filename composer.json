@@ -11,6 +11,10 @@
             "email": "hosmelq@gmail.com"
         }
     ],
+    "homepage": "https://hosmelq.com/docs/template",
+    "support": {
+        "docs": "https://hosmelq.com/docs/template"
+    },
     "require": {
         "php": "^8.4",
         "thecodingmachine/safe": "^3.4"
