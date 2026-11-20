@@ -2,4 +2,4 @@
 
 declare(strict_types=1);
 
-namespace HosmelQ\Namespace;
+namespace HosmelQ\Template;

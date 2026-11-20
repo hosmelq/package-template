@@ -28,7 +28,7 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "HosmelQ\\Namespace\\": "src/"
+            "HosmelQ\\Template\\": "src/"
         },
         "files": [
             "src/functions.php"
@@ -36,7 +36,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "HosmelQ\\Namespace\\Tests\\": "tests/"
+            "HosmelQ\\Template\\Tests\\": "tests/"
         }
     },
     "config": {

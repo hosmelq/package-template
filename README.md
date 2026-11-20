@@ -19,7 +19,7 @@ composer require hosmelq/package-name
 Name each section after a task, and show it with a short example:
 
 ```php
-use HosmelQ\Namespace\Example;
+use HosmelQ\Template\Example;
 
 $result = Example::make()->run();
 ```
